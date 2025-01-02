@@ -1,4 +1,4 @@
-# 🌟 Hi there, I'm **[Your Name]**! 👋  
+# 🌟 Hi there, I'm **Efemena**! 👋  
 
 Welcome to my little corner of GitHub! I’m passionate about **programming**, whether it’s solving tough challenges or creating elegant solutions.  
 
