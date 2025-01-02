@@ -41,4 +41,4 @@ Welcome to my little corner of GitHub! I’m passionate about **programming**, w
 
 ## 📫 **Let’s Connect**  
 - 🔗 [GitHub](https://github.com/novice000)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourname)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/efemena-esegbue-974a9a317) 
