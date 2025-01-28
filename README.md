@@ -1,4 +1,4 @@
-# 🌟 Hi there, I'm **Efemena** or **Maxwell** your choice😜! 👋  
+# 🌟 Hi there, I'm **Efemena** or **Maxwell**—your choice! 😜 👋  
 
 Welcome to my little corner of GitHub! I’m passionate about **programming**, whether it’s solving tough challenges or creating elegant solutions.  
 
@@ -39,6 +39,13 @@ Welcome to my little corner of GitHub! I’m passionate about **programming**, w
 
 ---
 
+## 📈 **GitHub Stats**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=novice000&layout=compact)  
+
+---
+
 ## 📫 **Let’s Connect**  
 - 🔗 [GitHub](https://github.com/novice000)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/efemena-esegbue-974a9a317) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/efemena-esegbue-974a9a317)  
+
+--- 
