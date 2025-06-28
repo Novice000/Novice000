@@ -1,8 +1,5 @@
-# 🌟 Hi there, I'm **Efemena** 😜 👋  
-
-Welcome to my little corner of GitHub! I’m passionate about **programming**, whether it’s solving tough challenges or creating elegant solutions.  
-
-✨ **Right now, I’m a web developer,** but one day I plan to dive into the world of **Artificial Intelligence** and **Machine Learning**.  
+# I'm Efemena
+chasing myself
 
 ---
 
